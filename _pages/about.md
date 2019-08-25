@@ -1,23 +1,25 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Ryosuke</strong> Onose
+description: >
+  小野瀬 良佑（おのせ りょうすけ）
+  <br />
+  --
+  <br />
+  <a href="https://www.cmc.is.i.nagoya-u.ac.jp">PhD Student @ Mase Laboratory, Nagoya University</a>
+  <br />
+  <a href="https://www.hybridbody.human.cornell.edu">Research Internship Student @ Hybrid Body Lab, Cornell University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at Nagoya University. My work widely spreads to the research fields on Wearable Device, Ubiquitous Computing, Human Computer Interaction, IoT, Digital Textile. My skillsets are wide variety of data analysis method such as Time Series Data processing, 2D Pressure Data processing, Image Recognition, Machine Learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also have design and web development skillsets through 100+ projects since 2013. Examples of my past projects can be listed as: Web Development (Frontend Coding, 3D-PCD-Data Labeling Tool) and Design (Corporate Website, Web Application UI, Magazine Design Direction, Corporate Logo, Motion Logo, Editorial, Apparel, Film, Photography).

@@ -1,40 +1,36 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
-description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+name: Ryosuke Onose
+email: ryosuke.onose@gmail.com
+description: >
+  Ryosuke Onose 小野瀬 良佑 # this means to ignore newlines until "url:"
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
+baseurl: /~onose # the subpath of your site, e.g. /blog/
+last_updated: 2019-08-25_00:42:53
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
+github_username: onose004
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: 良佑-小野瀬-325332100
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you cannot reach me via email, please try to find me on Facebook or Instagram
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-102233158-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: Blog
+blog_description: Note
 
 # Pagination
 paginate: 4
@@ -47,7 +43,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: Blog # put your disqus shortname
 
 # Optional features
 show_social_icons:  false
